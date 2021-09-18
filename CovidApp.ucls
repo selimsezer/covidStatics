@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="covidApp.connect" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/connect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1381" y="788"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="covidApp.franceWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/franceWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1834" y="80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="covidApp.menus" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/menus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1686" y="756"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="covidApp.italy" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/italy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="186" x="1972" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="covidApp.itBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/itBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1676" y="210"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="covidApp.itWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/itWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1989" y="80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="covidApp.plWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/plWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1837" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="covidApp.trBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/trBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1845" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="covidApp.poland" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/poland.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="186" x="1520" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="covidApp.frBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/frBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1527" y="729"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="covidApp.esBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/esBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1397" y="211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="covidApp.france" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/france.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="186" x="2198" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="covidApp.trWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/trWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1543" y="80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="covidApp.contryInfo" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/contryInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2486" y="285"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="15" language="java" name="covidApp.contryInfo.countryInfo" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/contryInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2483" y="124"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="covidApp.deBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/deBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1991" y="209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="covidApp.countries" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/countries.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="186" x="2174" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="covidApp.turkey" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/turkey.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="186" x="1746" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="covidApp.deWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/deWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1539" y="213"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="covidApp.plBarChart" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/plBarChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1402" y="84"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="covidApp.germany" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/germany.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="186" x="1294" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="covidApp.esWindow" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/esWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1682" y="79"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="covidApp.spain" project="covidApp" 
+    file="/covidApp/src/main/java/covidApp/spain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2506" y="505"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <nesting id="25">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="26">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="27" name="connect">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="28" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
